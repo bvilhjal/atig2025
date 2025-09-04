@@ -19,7 +19,7 @@ There are several requirements for completing this exercise.
 
 
 ```{r, setup, include=FALSE}
-knitr::opts_knit$set(root.dir = 'atig2024/PCA/'). # you can also set another working directory, such as '~/'.
+knitr::opts_knit$set(root.dir = 'atig2025/PCA/'). # you can also set another working directory, such as '~/'.
 ```
 
 First we load the bigsnpr package.
